@@ -1,0 +1,6 @@
+{
+  "buildCommand": "echo 'Using prebuilt output'",
+  "outputDirectory": "out",
+  "installCommand": "echo 'No install needed'",
+  "framework": null
+}
