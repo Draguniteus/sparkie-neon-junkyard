@@ -3,6 +3,7 @@ import type { NextConfig } from 'next'
 const nextConfig: NextConfig = {
   outputFileTracingRoot: 'C:/Users/user/Desktop/project-assets/Visual Wisdom/sparkie-neon-junkyard',
   output: 'export',
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
